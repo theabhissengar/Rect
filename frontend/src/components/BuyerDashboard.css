@@ -1,0 +1,18 @@
+.buyer-dashboard {
+    padding: 20px;
+}
+
+.filters {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.property-list {
+    border-top: 1px solid #ccc;
+}
+
+.property-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
